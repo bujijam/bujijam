@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! bujijam here 👋
+
+- 🌱 I'm currently learning JavaScript & Python.
+- 💬 I like playing [manyland](https://manyland.com/) with my friend, recording my life with my camera📷.
+- 📝 Blog: https://bujijam.ga/
+- 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
 
 <!--
 **bujijam/bujijam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
