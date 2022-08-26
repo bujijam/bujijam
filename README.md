@@ -1,9 +1,9 @@
 ### Hi! bujijam here 👋
 
 - 🌱 I'm currently learning JavaScript & Python.
-- 💬 I like playing [manyland](https://manyland.com/) with my friend, recording my life with my camera📷.
+- 💬 I like playing [manyland](https://manyland.com/) and minecraft with my friend, recording my life with my camera📷.
 - 📝 Blog: https://bujijam.ga/
-- 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
+- 📬 Contact me via email: [bujijam@gmail.com](mailto://bujijam@gmail.com/)
 
 <!--
 **bujijam/bujijam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
