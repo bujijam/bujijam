@@ -5,6 +5,10 @@
 - 📝 Blog: https://bujijam.ga/
 - 📬 Contact me via email: [bujijam@gmail.com](mailto://bujijam@gmail.com/)
 
+blurry cat
+
+[![cat.jpg](https://s1.ax1x.com/2022/09/19/xCFhTJ.jpg)](https://imgse.com/i/xCFhTJ)
+
 <!--
 **bujijam/bujijam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
