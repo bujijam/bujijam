@@ -2,10 +2,10 @@
 
 - 🌱 I'm currently learning JavaScript & Python.
 - 💬 I like playing [manyland](https://manyland.com/) and minecraft with my friend, recording my life with my camera📷.
-- 📝 Blog: https://bujijam.ga/
-- 📬 Contact me via email: [bujijam@gmail.com](mailto://bujijam@gmail.com/)
+- 📝 Blog: https://blog.bujijam.ga/
+- 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
 
-[![blurry_cat.jpg](https://s1.ax1x.com/2022/09/19/xCFhTJ.md.jpg)](https://imgse.com/i/xCFhTJ)
+[![blurry_cat](https://s1.ax1x.com/2022/09/19/xCFhTJ.md.jpg)]
 
 <!--
 **bujijam/bujijam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
