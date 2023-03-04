@@ -5,7 +5,11 @@
 - 📝 Blog: https://blog.bujijam.ga/
 - 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
 
+![sitting_cat](https://s1.ax1x.com/2023/03/04/ppAXAkn.jpg)
+
+<!--
 ![blurry_cat](https://s1.ax1x.com/2022/09/19/xCFhTJ.md.jpg)
+-->
 
 <!--
 **bujijam/bujijam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
