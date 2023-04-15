@@ -1,6 +1,6 @@
 ### Hi! bujijam here 👋
 
-- 🌱 I'm currently learning JavaScript & Python.
+- 🌱 I'm currently learning Python & JavaScript.
 - 💬 I like playing [manyland](https://manyland.com/) and minecraft with my friend, recording my life with my camera📷.
 - 📝 Blog: https://blog.bujijam.ga/
 - 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
