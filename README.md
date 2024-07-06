@@ -1,13 +1,14 @@
 ### Hi! bujijam here 👋
 
 - 🌱 I'm currently learning Python & JavaScript.
-- 💬 I like playing [manyland](https://manyland.com/) and minecraft with my friend, recording my life with my camera📷.
+- 💬 I like playing minecraft with my friend.
 - 📝 Blog: https://blog.bujijam.link/
 - 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
 
-![sitting_cat](https://s1.ax1x.com/2023/03/04/ppAXAkn.md.jpg)
 
 <!--
+rip manyland q-q
+![sitting_cat](https://s1.ax1x.com/2023/03/04/ppAXAkn.md.jpg)
 ![blurry_cat](https://s1.ax1x.com/2022/09/19/xCFhTJ.md.jpg)
 -->
 
