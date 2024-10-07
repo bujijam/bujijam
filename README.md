@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Python & C++.
 - 💬 I like playing minecraft with my friend.
 - 📝 Blog: https://blog.bujijam.us.kg/
-- 📬 Contact me via email: [bujijam@163.com](mailto://bujijam@163.com/)
+- 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
 
 ```颜文字来了哦！
 |∀ﾟ (´ﾟДﾟ`) (;´Д`) (｀･ω･) (=ﾟωﾟ)= | ω・´) |-` ) |д` ) |ー` ) |∀` ) (つд⊂) (ﾟДﾟ≡ﾟДﾟ) (＾o＾)ﾉ (|||ﾟДﾟ) ( ﾟ∀ﾟ)
