@@ -1,11 +1,15 @@
+i love birds
+![鹊鸲小可爱-](https://s21.ax1x.com/2024/10/07/pAGkyAe.md.png)
+
+
+<!--
 ### Hi! bujijam here 👋
 
 - 🌱 I'm currently learning Python & C++.
 - 💬 I like playing minecraft with my friend.
 - 📝 Blog: https://blog.bujijam.us.kg/
 - 📬 Contact me via email: [bujijam@qq.com](mailto://bujijam@qq.com/)
-
-![鹊鸲小可爱-](https://s21.ax1x.com/2024/10/07/pAGkyAe.md.png)
+-->
 
 <!--
 ```颜文字来了哦！
